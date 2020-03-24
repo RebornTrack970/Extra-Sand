@@ -6,7 +6,6 @@ health: 50
 capacity: 69
 category: distribution
 requirements: [
-  normalsand/55
-  copper/20
+  normalsand/1
 ]
 research: spedconveyor
