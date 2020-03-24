@@ -8,9 +8,6 @@ hasPower: false
 powerUse: 0.0000000000000000000000000000000000000001
 category: units
 requirements: [
-  normalsand/500
-  copper/150
-  lead/150
-  silicon/150
+  normalsand/1
 ]
 research: repair-point
