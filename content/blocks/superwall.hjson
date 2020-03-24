@@ -5,6 +5,6 @@ health: 6942069
 group: walls
 category: defense
 requirements: [
-  normalsand/1500
+  normalsand/1
 ]
 research: phase-wall
