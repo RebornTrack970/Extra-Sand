@@ -16,8 +16,6 @@ consumes: {
 size: 2
 category: units
 requirements: [
-  normalsand/1550
-  lead/450
-  silicon/300
+  normalsand/1
 ]
 research: crawler-factory
