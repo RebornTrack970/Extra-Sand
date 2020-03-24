@@ -9,10 +9,6 @@ hasPower: false
 category: distribution
 buildVisibility: sandboxOnly
 requirements: [
-  normalsand/150
-  phase-fabric/50
-  silicon/70
-  lead/100
-  graphite/100
+  normalsand/1
 ]
 research: spedconveyor
