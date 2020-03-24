@@ -11,6 +11,6 @@ laserRange: 250
 health: 200
 category: power
 requirements: [
-  normalsand/9001
+  normalsand/1
 ]
 research: power-source
