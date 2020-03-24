@@ -16,10 +16,6 @@ consumes: {
 size: 4
 category: units
 requirements: [
-  normalsand/2000
-  plastanium/500
-  titanium/1500
-  lead/1500
-  silicon/2000
+  normalsand/1
 ]
 research: revenant-factory
