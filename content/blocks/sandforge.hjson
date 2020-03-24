@@ -17,16 +17,6 @@ consumes: {
   power: 3
   items: {
     items: [
-      copper/1
-      lead/1
-      graphite/1
-      silicon/1
-      metaglass/1
-      titanium/1
-      plastanium/1
-      thorium/1
-      phase-fabric/1
-      surge-alloy/1
     ]
   }
 }
