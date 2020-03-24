@@ -9,7 +9,6 @@ description:
 size: 3
 hasPower: true
 hasItems: true
-hasLiquids: true
 liquidCapacity: 24
 craftTime: 306
 flameColor: C9A58F
@@ -40,4 +39,3 @@ idleSound: completelynormalsandforgery
 idleSoundVolume: 2
 sync: false
 outputItem: normalsand/1
-outputLiquid: supercoolant/1
