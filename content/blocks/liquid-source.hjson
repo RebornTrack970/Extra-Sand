@@ -7,6 +7,6 @@ description:
 health: 169
 alwaysUnlocked: false
 requirements: [
-  normalsand/12000
+  normalsand/1
 ]
 research: liquid-void
