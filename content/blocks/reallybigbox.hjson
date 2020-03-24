@@ -2,21 +2,11 @@ type: Vault
 name: Really Big Box
 description: Thanks, I really needed the extra storage!
 health: 750
-itemCapacity: 69250
+itemCapacity: 1000000
 size: 8
 rotate: true
 category: effect
 requirements: [
-  normalsand/4500
-  copper/250
-  lead/250
-  titanium/250
-  thorium/250
-  silicon/250
-  graphite/250
-  metaglass/250
-  plastanium/250
-  surge-alloy/250
-  phase-fabric/250
+  normalsand/1
 ]
 research: vault
