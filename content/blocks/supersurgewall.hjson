@@ -8,7 +8,6 @@ lightningDamage: 100
 lightningLength: 200
 category: defense
 requirements: [
-  normalsand/1500
-  surge-alloy/500
+  normalsand/1
 ]
 research: superwall
