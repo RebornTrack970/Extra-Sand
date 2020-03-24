@@ -16,9 +16,6 @@ consumes: {
 size: 2
 category: units
 requirements: [
-  normalsand/1750
-  metaglass/450
-  lead/550
-  silicon/450
+  normalsand/1
 ]
 research: spirit-factory
