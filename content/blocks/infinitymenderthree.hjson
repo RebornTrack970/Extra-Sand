@@ -16,9 +16,6 @@ consumes: {
 }
 category: effect
 requirements: [
-  normalsand/3125
-  lead/625
-  titanium/1563
-  silicon/2500
+  normalsand/1
 ]
 research: infinitymendertwo
