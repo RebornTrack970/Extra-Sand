@@ -15,10 +15,6 @@ consumes: {
 }
 category: effect
 requirements: [
-  normalsand/1750
-  lead/1000
-  titanium/750
-  silicon/750
-  plastanium/300
+  normalsand/1
 ]
 research: overdrive-projector
