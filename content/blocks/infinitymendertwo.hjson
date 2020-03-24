@@ -16,9 +16,6 @@ consumes: {
 }
 category: effect
 requirements: [
-  normalsand/1250
-  lead/250
-  titanium/625
-  silicon/1000
+  normalsand/1
 ]
 research: infinitymenderone
