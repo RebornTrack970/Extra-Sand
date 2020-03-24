@@ -16,10 +16,6 @@ consumes: {
 size: 2
 category: units
 requirements: [
-  normalsand/2000
-  titanium/500
-  thorium/600
-  lead/650
-  silicon/1050
+  normalsand/1
 ]
 research: phantom-factory
