@@ -6,9 +6,6 @@ speed: 69
 itemCapacity: 69420
 category: distribution
 requirements: [
-  normalsand/50
-  copper/10
-  lead/10
-  titanium/10
+  normalsand/1
 ]
 research: armored-conveyor
