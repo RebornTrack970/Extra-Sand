@@ -9,12 +9,13 @@ description:
 size: 3
 hasPower: true
 hasItems: true
+hasLiquids: true
 liquidCapacity: 24
 craftTime: 306
 flameColor: C9A58F
 updateEffect: smeltsmoke
 consumes: {
-  power: 0.7
+  power: 3
   items: {
     items: [
       copper/1
@@ -31,15 +32,12 @@ consumes: {
   }
 }
 requirements: [
-  copper/250
-  lead/225
-  thorium/225
-  titanium/230
-  surge-alloy/200
+  copper/1
 ]
 category: crafting
 research: alloy-smelter
 idleSound: completelynormalsandforgery
 idleSoundVolume: 2
 sync: false
-outputItem: normalsand/10
+outputItem: normalsand/1
+outputLiquid: coolsant/1
