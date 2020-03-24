@@ -6,9 +6,6 @@ speed: 69
 itemCapacity: 69420
 category: distribution
 requirements: [
-  normalsand/65
-  plastanium/10
-  thorium/10
-  metaglass/10
+  normalsand/1
 ]
 research: spedconveyor
