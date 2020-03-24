@@ -16,5 +16,4 @@ status: {
   damageMultiplier: 100
   effect: overdriven
 }
-buildVisibility: sandboxOnly
 alwaysUnlocked: true
