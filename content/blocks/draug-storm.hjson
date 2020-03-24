@@ -16,8 +16,6 @@ consumes: {
 size: 2
 category: units
 requirements: [
-  normalsand/4500
-  copper/300
-  lead/700
+  normalsand/1
 ]
 research: draug-factory
